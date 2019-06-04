@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_open_academyv3_open_academyv3,open_academyv3.open_academyv3,model_open_academyv3_open_academyv3,,1,0,0,0
